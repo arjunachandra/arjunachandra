@@ -16,7 +16,8 @@
 - 📫 How to reach me **arjun.chandra.careers@gmail.com**
 
 - 👨‍💻 All of my **Projects** are available at [Link](https://github.com/arjunachandra)
-
+- 
+- 📄 Know about my **Experiences** [Link](https://drive.google.com/file/d/10ONZdHnk8g6mB9JxJ5eaIdQLnMmzFtIo/view?usp=drive_link)
 
 - ⚡ Fun fact **Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.**
 
