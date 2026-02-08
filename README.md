@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me🤝</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arjun-chandra09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arjun Chandra" height="30" width="40" /></a>    
-
+<a href="https://instagram.com/the_arjunc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_arjunc" height="30" width="40" /></a>
 
 <h3 align="left">Tools and Technologies I Utilize⚙️</h3>
 <p align="left"> 
